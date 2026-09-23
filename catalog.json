@@ -1,1 +1,15 @@
-{}
+{
+  "electric-circuit": {
+    "lessons": [
+      {
+        "name": "Dr.Husain_Ali.pdf",
+        "path": "subjects/electric-circuit/lessons/Dr.Husain_Ali.pdf",
+        "size": 76919014
+      }
+    ],
+    "assignments": [],
+    "labs": [],
+    "exams": [],
+    "summaries": []
+  }
+}
