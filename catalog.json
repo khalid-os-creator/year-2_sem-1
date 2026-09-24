@@ -152,6 +152,12 @@
     "assignments": [],
     "labs": [],
     "exams": [],
-    "summaries": []
+    "summaries": [
+      {
+        "name": "CamScanner ١٨-١٢-٢٠٢٥ ١٨.٢٨.pdf",
+        "path": "subjects/technical-english/summaries/CamScanner ١٨‏-١٢‏-٢٠٢٥ ١٨.٢٨.pdf",
+        "size": 15868360
+      }
+    ]
   }
 }
