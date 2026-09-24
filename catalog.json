@@ -1,111 +1,91 @@
 {
-  "_metadata": {
-    "generated_at": 1790251198,
-    "total_subjects": 3,
-    "total_files": 13
+  "electric-circuit": {
+    "lessons": [
+      {
+        "name": "Dr.Husain_Ali.pdf",
+        "path": "subjects/electric-circuit/lessons/Dr.Husain_Ali.pdf",
+        "size": 76919014
+      }
+    ],
+    "assignments": [],
+    "labs": [],
+    "exams": [],
+    "summaries": []
   },
-  "subjects": {
-    "electric-circuit": {
-      "lessons": [
-        {
-          "name": "Dr.Husain_Ali.pdf",
-          "path": "subjects/electric-circuit/lessons/Dr.Husain_Ali.pdf",
-          "size_bytes": 76919014,
-          "size_formatted": "73.36 MB"
-        }
-      ],
-      "assignments": [],
-      "labs": [],
-      "exams": [],
-      "summaries": []
-    },
-    "object-oriented-programming": {
-      "lessons": [],
-      "assignments": [],
-      "labs": [],
-      "exams": [
-        {
-          "name": "Exam OOP 2018 #(1).pdf",
-          "path": "subjects/object-oriented-programming/exams/Exam OOP 2018 #(1).pdf",
-          "size_bytes": 898673,
-          "size_formatted": "877.6 KB"
-        },
-        {
-          "name": "OOP.pdf",
-          "path": "subjects/object-oriented-programming/exams/OOP.pdf",
-          "size_bytes": 1606169,
-          "size_formatted": "1.53 MB"
-        },
-        {
-          "name": "OOP_ReExam_2018.pdf",
-          "path": "subjects/object-oriented-programming/exams/OOP_ReExam_2018.pdf",
-          "size_bytes": 798507,
-          "size_formatted": "779.8 KB"
-        },
-        {
-          "name": "Solve Exam OOP 2018.pdf",
-          "path": "subjects/object-oriented-programming/exams/Solve Exam OOP 2018.pdf",
-          "size_bytes": 809419,
-          "size_formatted": "790.4 KB"
-        },
-        {
-          "name": "Solved Exam – OOP 2022.pdf",
-          "path": "subjects/object-oriented-programming/exams/Solved Exam – OOP 2022.pdf",
-          "size_bytes": 442786,
-          "size_formatted": "432.4 KB"
-        },
-        {
-          "name": "إمتحان 2023(oop).pdf",
-          "path": "subjects/object-oriented-programming/exams/إمتحان 2023(oop).pdf",
-          "size_bytes": 380749,
-          "size_formatted": "371.8 KB"
-        },
-        {
-          "name": "امتحان صبحي ٢٠٢٢.pdf",
-          "path": "subjects/object-oriented-programming/exams/امتحان صبحي ٢٠٢٢.pdf",
-          "size_bytes": 1262502,
-          "size_formatted": "1.20 MB"
-        },
-        {
-          "name": "ضع دائرة وفراغات كمال.pdf",
-          "path": "subjects/object-oriented-programming/exams/ضع دائرة وفراغات كمال.pdf",
-          "size_bytes": 1544010,
-          "size_formatted": "1.47 MB"
-        }
-      ],
-      "summaries": [
-        {
-          "name": "حلول أسئلة شبتر 6.pdf",
-          "path": "subjects/object-oriented-programming/summaries/حلول أسئلة شبتر 6.pdf",
-          "size_bytes": 51550,
-          "size_formatted": "50.3 KB"
-        },
-        {
-          "name": "حلول اسئلة شبتر 9.pdf",
-          "path": "subjects/object-oriented-programming/summaries/حلول اسئلة شبتر 9.pdf",
-          "size_bytes": 51297,
-          "size_formatted": "50.1 KB"
-        },
-        {
-          "name": "مسائل شبتر 6.pdf",
-          "path": "subjects/object-oriented-programming/summaries/مسائل شبتر 6.pdf",
-          "size_bytes": 61450,
-          "size_formatted": "60.0 KB"
-        },
-        {
-          "name": "مسائل شبتر 9.pdf",
-          "path": "subjects/object-oriented-programming/summaries/مسائل شبتر 9.pdf",
-          "size_bytes": 62937,
-          "size_formatted": "61.5 KB"
-        }
-      ]
-    },
-    "technical-english": {
-      "lessons": [],
-      "assignments": [],
-      "labs": [],
-      "exams": [],
-      "summaries": []
-    }
+  "object-oriented-programming": {
+    "lessons": [],
+    "assignments": [],
+    "labs": [],
+    "exams": [
+      {
+        "name": "Exam OOP 2018 #(1).pdf",
+        "path": "subjects/object-oriented-programming/exams/Exam OOP 2018 #(1).pdf",
+        "size": 898673
+      },
+      {
+        "name": "OOP.pdf",
+        "path": "subjects/object-oriented-programming/exams/OOP.pdf",
+        "size": 1606169
+      },
+      {
+        "name": "OOP_ReExam_2018.pdf",
+        "path": "subjects/object-oriented-programming/exams/OOP_ReExam_2018.pdf",
+        "size": 798507
+      },
+      {
+        "name": "Solve Exam OOP 2018.pdf",
+        "path": "subjects/object-oriented-programming/exams/Solve Exam OOP 2018.pdf",
+        "size": 809419
+      },
+      {
+        "name": "Solved Exam – OOP 2022.pdf",
+        "path": "subjects/object-oriented-programming/exams/Solved Exam – OOP 2022.pdf",
+        "size": 442786
+      },
+      {
+        "name": "إمتحان 2023(oop).pdf",
+        "path": "subjects/object-oriented-programming/exams/إمتحان 2023(oop).pdf",
+        "size": 380749
+      },
+      {
+        "name": "امتحان صبحي ٢٠٢٢.pdf",
+        "path": "subjects/object-oriented-programming/exams/امتحان صبحي ٢٠٢٢.pdf",
+        "size": 1262502
+      },
+      {
+        "name": "ضع دائرة وفراغات كمال.pdf",
+        "path": "subjects/object-oriented-programming/exams/ضع دائرة وفراغات كمال.pdf",
+        "size": 1544010
+      }
+    ],
+    "summaries": [
+      {
+        "name": "حلول أسئلة شبتر 6.pdf",
+        "path": "subjects/object-oriented-programming/summaries/حلول أسئلة شبتر 6.pdf",
+        "size": 51550
+      },
+      {
+        "name": "حلول اسئلة شبتر 9.pdf",
+        "path": "subjects/object-oriented-programming/summaries/حلول اسئلة شبتر 9.pdf",
+        "size": 51297
+      },
+      {
+        "name": "مسائل شبتر 6.pdf",
+        "path": "subjects/object-oriented-programming/summaries/مسائل شبتر 6.pdf",
+        "size": 61450
+      },
+      {
+        "name": "مسائل شبتر 9.pdf",
+        "path": "subjects/object-oriented-programming/summaries/مسائل شبتر 9.pdf",
+        "size": 62937
+      }
+    ]
+  },
+  "technical-english": {
+    "lessons": [],
+    "assignments": [],
+    "labs": [],
+    "exams": [],
+    "summaries": []
   }
 }
