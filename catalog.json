@@ -5,12 +5,78 @@
         "name": "Dr.Husain_Ali.pdf",
         "path": "subjects/electric-circuit/lessons/Dr.Husain_Ali.pdf",
         "size": 76919014
+      },
+      {
+        "name": "جميع سبورات دوائر كهربائية.pdf",
+        "path": "subjects/electric-circuit/lessons/جميع سبورات دوائر كهربائية.pdf",
+        "size": 58527569
+      },
+      {
+        "name": "دوائر كهربائيه د.حسين.pdf",
+        "path": "subjects/electric-circuit/lessons/دوائر كهربائيه د.حسين.pdf",
+        "size": 1582302
       }
     ],
     "assignments": [],
     "labs": [],
     "exams": [],
-    "summaries": []
+    "summaries": [
+      {
+        "name": "Advanced_Circuit_Pillars.pdf",
+        "path": "subjects/electric-circuit/summaries/Advanced_Circuit_Pillars.pdf",
+        "size": 1391176
+      },
+      {
+        "name": "أساسيات_الدوائر_الكهربائية.pdf",
+        "path": "subjects/electric-circuit/summaries/أساسيات_الدوائر_الكهربائية.pdf",
+        "size": 7984741
+      },
+      {
+        "name": "تحليل الدوائر الكهربائية والإلكترونية-عبد القادر الأمين.pdf",
+        "path": "subjects/electric-circuit/summaries/تحليل الدوائر الكهربائية والإلكترونية-عبد القادر الأمين.pdf",
+        "size": 6059107
+      },
+      {
+        "name": "حسين 5 ,6.pdf",
+        "path": "subjects/electric-circuit/summaries/حسين 5 ,6.pdf",
+        "size": 17345638
+      },
+      {
+        "name": "د.حسين.pdf",
+        "path": "subjects/electric-circuit/summaries/د.حسين.pdf",
+        "size": 35802780
+      },
+      {
+        "name": "محاضرات دوائر كهربائية من ١ إلى ٦.pdf",
+        "path": "subjects/electric-circuit/summaries/محاضرات دوائر كهربائية من ١ إلى ٦.pdf",
+        "size": 40538647
+      },
+      {
+        "name": "محاضرة حسين ٤.pdf",
+        "path": "subjects/electric-circuit/summaries/محاضرة حسين ٤.pdf",
+        "size": 10174215
+      },
+      {
+        "name": "ملخص دوائر الكهرباء 1 + 2 .pdf",
+        "path": "subjects/electric-circuit/summaries/ملخص دوائر الكهرباء 1 + 2 .pdf",
+        "size": 14576969
+      },
+      {
+        "name": "ملخص دوائر الكهرباء 3.pdf",
+        "path": "subjects/electric-circuit/summaries/ملخص دوائر الكهرباء 3.pdf",
+        "size": 7605333
+      },
+      {
+        "name": "ملخص دوائر الكهرباء 4.pdf",
+        "path": "subjects/electric-circuit/summaries/ملخص دوائر الكهرباء 4.pdf",
+        "size": 5859747
+      },
+      {
+        "name": "ملخص دوائر الكهرباء 5.pdf",
+        "path": "subjects/electric-circuit/summaries/ملخص دوائر الكهرباء 5.pdf",
+        "size": 4331222
+      }
+    ]
   },
   "object-oriented-programming": {
     "lessons": [],
