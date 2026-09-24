@@ -1,15 +1,23 @@
 {
-  "electric-circuit": {
-    "lessons": [
-      {
-        "name": "Dr.Husain_Ali.pdf",
-        "path": "subjects/electric-circuit/lessons/Dr.Husain_Ali.pdf",
-        "size": 76919014
-      }
-    ],
-    "assignments": [],
-    "labs": [],
-    "exams": [],
-    "summaries": []
+  "_metadata": {
+    "generated_at": 1790244837,
+    "total_subjects": 1,
+    "total_files": 1
+  },
+  "subjects": {
+    "electric-circuit": {
+      "lessons": [
+        {
+          "name": "Dr.Husain_Ali.pdf",
+          "path": "subjects/electric-circuit/lessons/Dr.Husain_Ali.pdf",
+          "size_bytes": 76919014,
+          "size_formatted": "73.36 MB"
+        }
+      ],
+      "assignments": [],
+      "labs": [],
+      "exams": [],
+      "summaries": []
+    }
   }
 }
