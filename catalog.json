@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "generated_at": 1790244837,
-    "total_subjects": 1,
+    "generated_at": 1790249873,
+    "total_subjects": 2,
     "total_files": 1
   },
   "subjects": {
@@ -14,6 +14,13 @@
           "size_formatted": "73.36 MB"
         }
       ],
+      "assignments": [],
+      "labs": [],
+      "exams": [],
+      "summaries": []
+    },
+    "technical-english": {
+      "lessons": [],
       "assignments": [],
       "labs": [],
       "exams": [],
